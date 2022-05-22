@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OG Shitposter pack",
+    "price": "0.69",
+    "description": "Get this fire pack for only $0.09! Includes 3 bangers",
+    "image_url": "https://c.tenor.com/ec7Iv1cfzv8AAAAd/danny-gonzalez-drew-gooden.gif",
+    "filename": "Emojis.zip",
+    "hash": "QmZzjbkhMGvzKZ8LMrwa79NQR6WoyMzwEjBhju4BtJtCD3"
+  },
+  {
+    "id": 2,
+    "name": "Superior Fonts",
+    "price": "1",
+    "image_url": "https://c.tenor.com/kHcmsxlKHEAAAAAC/rock-one-eyebrow-raised-rock-staring.gif",
+    "description": "shit posts which make the rock's eye roll",
+    "filename": "azonix.zip",
+    "hash": "QmQ2C18o7uH2NccRLk47MKbU9ErHiyszL1vLjHfsE6LFXA"
+  }
+]
